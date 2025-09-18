@@ -1,3 +1,5 @@
+#Imagined by Mathias Mürset, made by ChatGPT
+
 import os
 import sys
 import shlex
